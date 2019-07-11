@@ -1,0 +1,14 @@
+.one {
+    background-color : green;
+    color : white;
+    border-radius: 6px;    
+}
+.two {
+    margin : 0px;
+}
+.three {
+    color : black;
+}
+.four {
+    padding : 15px;
+}
