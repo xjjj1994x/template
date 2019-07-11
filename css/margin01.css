@@ -1,0 +1,10 @@
+h2 {
+    margin: 20px 0 0 50px;
+    border: solid}
+div {
+    background-color: lightgrey;
+    width: 400px;
+    border: 33px solid rgb(17, 29, 129);
+    padding: 100px;
+    margin: 50px;
+}
