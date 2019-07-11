@@ -12,3 +12,26 @@
 .four {
     padding : 15px;
 }
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+}
+ul li{
+    background-color:lightgray;
+    width : 180px;
+    margin: 5px;
+    border-radius : 6px;
+    
+}
+.five{
+    text-decoration : none;
+    color: black;
+}
+.liselector{
+    background-color:green;
+    width : 180px;
+    margin: 5px;
+    border-radius : 6px;
+    
+}
