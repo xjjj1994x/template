@@ -1,0 +1,8 @@
+*{  box-sizing: border-box; }
+.column { float: left;
+    padding: 10px;
+    border: 1px solid red;
+}
+.column.side {  width: 25%; }
+.column.middle {    width: 50%; }
+.row {  display: inline; }
