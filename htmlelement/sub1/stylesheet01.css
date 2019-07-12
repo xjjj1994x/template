@@ -22,7 +22,7 @@ ul li{
     width : 180px;
     margin: 5px;
     border-radius : 6px;
-    
+    font-size : 20pt;
 }
 .five{
     text-decoration : none;
@@ -33,5 +33,6 @@ ul li{
     width : 180px;
     margin: 5px;
     border-radius : 6px;
+    font-weight : bold;
     
 }
