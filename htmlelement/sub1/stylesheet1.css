@@ -52,6 +52,6 @@ table { border-collapse: collapse; width: 100%; }
     padding: 10px;
     border: 0px; 
 }
-.column.side{ width: 25%; }
-.column.middle{  width: 50%; }
+.column.side{ width: 15%; }
+.column.middle{  width: 70%; }
 .row{ display:inline-block; }
