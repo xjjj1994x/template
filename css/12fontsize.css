@@ -1,0 +1,15 @@
+body{
+    font-size : 200%;
+}
+.em{
+    font-size : 1em;
+}
+.pt{
+    font-size : 12pt;
+}
+.px{
+    font-size : 16px;
+}
+.per{
+    font-size : 100%;
+}
